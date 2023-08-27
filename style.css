@@ -22,6 +22,10 @@ li {
   line-height: 25px;
 }
 
+footer {
+  margin-left: 260px;
+}
+
 .weather-app {
   border: 1px solid #e0dbdb;
   padding: 15px;
